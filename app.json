@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SimuChat",
+    "slug": "SimuChat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
